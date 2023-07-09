@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Visitors](https://api.visitorbadge.io/api/combined?path=galek%2Fgalek&countColor=%2337d67a&style=plastic&labelStyle=lower)](https://visitorbadge.io/status?path=galek%2Fgalek)
 
 <p align="center">
     <a href="https://github.com/galek#gh-light-mode-only">
