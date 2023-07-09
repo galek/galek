@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 [![Visitors](https://api.visitorbadge.io/api/combined?path=galek%2Fgalek&countColor=%2337d67a&style=plastic&labelStyle=lower)](https://visitorbadge.io/status?path=galek%2Fgalek)
 
 [![Linkedin Badge](https://img.shields.io/badge/-galek-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ngalko/)](https://www.linkedin.com/in/ngalko/)
-[![Instagram Badge](https://img.shields.io/badge/-galek-8a3ab9?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rockstar_nick240/)](https://instagram.com/rockstar_nick240)
+[![Blogger Badge](https://img.shields.io/badge/blogger-BB001B?style=flat&logo=Blogger&logoColor=white&link=https://blog.galek.ru)](https://blog.galek.ru)
+[![Instagram Badge](https://img.shields.io/badge/-rockstar_nick240-8a3ab9?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rockstar_nick240/)](https://instagram.com/rockstar_nick240)
 [![Gmail Badge](https://img.shields.io/badge/nikolay.galko@gmail.com-BB001B?style=flat&logo=Gmail&logoColor=white&link=mailto:nikolay.galko@gmail.com)](mailto:nikolay.galko@gmail.com)
 
 ## 👨‍💻 What I am doing..
