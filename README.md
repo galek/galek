@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![Angular](https://img.shields.io/badge/-Angular-323330?style=flat&logo=angular&logoColor=white)
 ![Angular.JS](https://img.shields.io/badge/-AngularJS-323330?style=flat&logo=angularjs&logoColor=white)
 ![Ionic](https://img.shields.io/badge/-Ionic-323330?style=flat&logo=ionic&logoColor=white)
-![Ionic.JS](https://img.shields.io/badge/-IonicJS-323330?style=flat&logo=ionicJS&logoColor=white)
+![Ionic.JS](https://img.shields.io/badge/-IonicJS-323330?style=flat&logo=ionic&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-323330?style=flat&logo=flutter&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-323330?style=flat&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
