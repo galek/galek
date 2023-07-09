@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-f34f29?style=flat&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-f34f29?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?style=flat&logo=Python&logoColor=white)
+![GLSL](https://img.shields.io/badge/-GLSL-4B8BBE?style=flat&logo=Glsl&logoColor=white)
 
 ###### Frontend frameworks
 ![Vue.js](https://img.shields.io/badge/-Vue-323330?style=flat&logo=vuedotjs&logoColor=white)
