@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-384d54?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-326ce5?style=flat&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-326ce5?style=flat&logo=argocd&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-326ce5?style=flat&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f34f29?style=flat&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-f06529?style=flat&logo=html5&logoColor=white)
