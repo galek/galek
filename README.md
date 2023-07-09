@@ -22,32 +22,55 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 What I am doing..
 
+### Programming languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-68a063?style=flat&logo=Node.js&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-f34f29?style=flat&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-f34f29?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?style=flat&logo=Python&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-323330?style=flat&logo=vue&logoColor=white)
+
+### Frontend frameworks
+![Vue.js](https://img.shields.io/badge/-Vue-323330?style=flat&logo=vuedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-323330?style=flat&logo=angular&logoColor=white)
 ![Angular.JS](https://img.shields.io/badge/-AngularJS-323330?style=flat&logo=angularjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/-svelte-323330?style=flat&logo=svelte&logoColor=white)
+
+### Mobile development
 ![Ionic](https://img.shields.io/badge/-Ionic-323330?style=flat&logo=ionic&logoColor=white)
 ![Ionic.JS](https://img.shields.io/badge/-IonicJS-323330?style=flat&logo=ionic&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-323330?style=flat&logo=flutter&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-323330?style=flat&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+#### DataBases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-D82C20?style=flat&logo=Redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+
+### DevOps
 ![Docker](https://img.shields.io/badge/-Docker-384d54?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-326ce5?style=flat&logo=jenkins&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-326ce5?style=flat&logo=argocd&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-326ce5?style=flat&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-f34f29?style=flat&logo=git&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-326ce5?style=flat&logo=shell&logoColor=white)
+
+### Message Brokers
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-326ce5?style=flat&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-326ce5?style=flat&logo=rabbitmq&logoColor=white)
+
+### Markdown
 ![HTML5](https://img.shields.io/badge/-HTML5-f06529?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![MarkDown](https://img.shields.io/badge/-MarkDown-CC6699?style=flat&logo=markdown&logoColor=white)
+
+### VCS
+![Git](https://img.shields.io/badge/-Git-f34f29?style=flat&logo=git&logoColor=white)
+![SVN](https://img.shields.io/badge/-Svn-f34f29?style=flat&logo=svn&logoColor=white)
+![Hg](https://img.shields.io/badge/-Hg-f34f29?style=flat&logo=hg&logoColor=white)
 
 <p align="center">
     <a href="https://github.com/galek#gh-light-mode-only">
