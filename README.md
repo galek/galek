@@ -33,10 +33,11 @@ Here are some ideas to get you started:
 ![GLSL](https://img.shields.io/badge/-GLSL-4B8BBE?style=flat&logo=Glsl&logoColor=white)
 
 ###### Frontend frameworks
-![Vue.js](https://img.shields.io/badge/-Vue-323330?style=flat&logo=vuedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-323330?style=flat&logo=angular&logoColor=white)
-![Angular.JS](https://img.shields.io/badge/-AngularJS-323330?style=flat&logo=angularjs&logoColor=white)
-![Svelte](https://img.shields.io/badge/-svelte-323330?style=flat&logo=svelte&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue-%2335495e?style=flat&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-%23DD0031?style=flat&logo=angular&logoColor=white)
+![Angular.JS](https://img.shields.io/badge/-AngularJS-%23E23237?style=flat&logo=angularjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/-svelte-%23f1413d?style=flat&logo=svelte&logoColor=white)
+![JQuery](https://img.shields.io/badge/-JQuery-%230769AD?style=flat&logo=JQuery&logoColor=white)
 
 ###### Backend frameworks
 ![Express.js](https://img.shields.io/badge/-ExpressJS-323330?style=flat&logo=express&logoColor=white)
@@ -44,10 +45,10 @@ Here are some ideas to get you started:
 ![Fiber](https://img.shields.io/badge/-Fiber-323330?style=flat&logo=fiber&logoColor=white)
 
 ###### Mobile development
-![Ionic](https://img.shields.io/badge/-Ionic-323330?style=flat&logo=ionic&logoColor=white)
-![Ionic.JS](https://img.shields.io/badge/-IonicJS-323330?style=flat&logo=ionic&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-323330?style=flat&logo=flutter&logoColor=white)
-![ReactNative](https://img.shields.io/badge/-ReactNative-323330?style=flat&logo=react&logoColor=white)
+![Ionic](https://img.shields.io/badge/-Ionic-%233880FF?style=flat&logo=ionic&logoColor=white)
+![Ionic.JS](https://img.shields.io/badge/-IonicJS-%233880FF?style=flat&logo=ionic&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?style=flat&logo=flutter&logoColor=white)
+![ReactNative](https://img.shields.io/badge/-ReactNative-%323330?style=flat&logo=react&logoColor=white)
 
 ###### DataBases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
