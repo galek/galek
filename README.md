@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?style=flat&logo=Python&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-323330?style=flat&logo=vue&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-323330?style=flat&logo=angular&logoColor=white)
-![Angular.JS](https://img.shields.io/badge/-Angular-JS-323330?style=flat&logo=angular-js&logoColor=white)
+![Angular.JS](https://img.shields.io/badge/-AngularJS-323330?style=flat&logo=angularjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-D82C20?style=flat&logo=Redis&logoColor=white)
