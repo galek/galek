@@ -38,6 +38,11 @@ Here are some ideas to get you started:
 ![Angular.JS](https://img.shields.io/badge/-AngularJS-323330?style=flat&logo=angularjs&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-svelte-323330?style=flat&logo=svelte&logoColor=white)
 
+###### Backend frameworks
+![Express.js](https://img.shields.io/badge/-ExpressJS-323330?style=flat&logo=express&logoColor=white)
+![Nest.JS](https://img.shields.io/badge/-NestJS-323330?style=flat&logo=nestjs&logoColor=white)
+![Fiber](https://img.shields.io/badge/-Fiber-323330?style=flat&logo=fiber&logoColor=white)
+
 ###### Mobile development
 ![Ionic](https://img.shields.io/badge/-Ionic-323330?style=flat&logo=ionic&logoColor=white)
 ![Ionic.JS](https://img.shields.io/badge/-IonicJS-323330?style=flat&logo=ionic&logoColor=white)
